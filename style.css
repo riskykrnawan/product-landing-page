@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
+main {
+  font-family: 'Lato', sans-serif;
+  background-color:#F7F7F7;
+}
+.bg-custom-1 {
+  background-color:#F7F7F7;
+}
+.header-img {
+  max-width:40px;
+}
+.email-container {
+  margin:auto;
+  width:400px;
+  padding:30px 0;
+}
+.temp {
+  background-color:red;
+  width:400px;
+  height:200px;
+  margin:auto;
+}
+.display-hidden {
+  display:none;
+}
+.btn-custom-1 {
+  margin:auto;
+  margin-top:10px;
+  width:100%;
+  padding:10px 55px;
+  background-color:#FF7800; 
+  border:none;
+  border-radius:3px;
+  color:white;
+}
+.btn-custom-2 {
+  margin:auto;
+  margin-top:10px;
+  padding:6px 20px;
+  background-color:#FF7800; 
+  border:none;
+  border-radius:3px;
+  color:white;
+}
+.logo-feature {
+  display: flex;
+  justify-content: center;
+  font-size:60px;
+  color:#FF7800;
+}
+.video {
+  padding-top: 100px;
+  display: flex;
+  margin:auto;
+  width:500px;
+}
+.card-container-custom {
+  display: flex;
+  justify-content: center;
+}
+footer {
+  background-color: #F7F7F7;
+  /* text-align: end; */
+}
